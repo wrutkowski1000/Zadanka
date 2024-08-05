@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ContactApp.Client",
+    "\\ContactApp.Client\\src",
+    "\\ContactApp.Client\\src\\app",
+    "\\ContactApp.Client\\src\\app\\models",
+    "\\ContactApp.Client\\src\\app\\services",
+    "\\Data",
+    "\\Models"
+  ],
+  "SelectedNode": "\\Data\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
